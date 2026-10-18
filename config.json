@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "novacraftx7.aternos.me",
+  "serverPort": 34096,
+  "botUsername": "userMyBot",
   "botChunk": 1
 }
